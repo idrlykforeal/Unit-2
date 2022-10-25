@@ -27,3 +27,4 @@ print(averageLength(givenlist))
 ```
 
 # Test
+![](17.jpeg)
