@@ -27,4 +27,4 @@ print(averageLength(givenlist))
 ```
 
 # Test
-![](17.jpeg)
+![17](https://user-images.githubusercontent.com/100017195/198516490-b7897422-d7b5-493b-a496-a7961f4f2ab8.jpg)
