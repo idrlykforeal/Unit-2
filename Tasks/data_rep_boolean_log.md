@@ -26,3 +26,27 @@ Information can be represented in different systems, for example the number 10  
 It is critical for you to understand how to represent information in different ways, this will help you visualize how the computer processes data.
 
 <img width="638" alt="Screen Shot 2022-10-31 at 11 26 29 PM" src="https://user-images.githubusercontent.com/100017195/199031500-998a000f-1c9e-4c33-a43d-d658a5abc129.png">
+
+256(dec) to Base 2 =
+
+| Division | Quotient | Remainder(Digit) | Digit # |
+|----------|----------|------------------|---------|
+| 256/2    | 128      | 0                | 0       |
+| 128/2    | 64       | 0                | 1       |
+| 64/2     | 32       | 0                | 2       |
+| 32/2     | 16       | 0                | 3       |
+| 16/2     | 8        | 0                | 4       |
+| 8/2      | 4        | 0                | 5       |
+| 4/2      | 2        | 0                | 6       |
+| 2/2      | 1        | 0                | 7       |
+| 1/2      | 0        | 1                | 8       |
+
+256(dec) to Base 4 =
+
+| Division | Quotient | Remainder(Digit) | Digit # |
+|----------|----------|------------------|---------|
+| 256/4    | 64       | 0                | 0       |
+| 64/4     | 16       | 0                | 1       |
+| 16/4     | 4        | 0                | 2       |
+| 4/4      | 1        | 0                | 3       |
+| 1/4      | 0        | 1                | 4       |
