@@ -24,10 +24,12 @@ Write the truth table for the equations below
 Information can be represented in different systems, for example the number 10  in decimal (system base 10) can be represented in binary (system base 2) as 1010 or 12 in base 8. 
 
 It is critical for you to understand how to represent information in different ways, this will help you visualize how the computer processes data.
-
+## Answers
 <img width="638" alt="Screen Shot 2022-10-31 at 11 26 29 PM" src="https://user-images.githubusercontent.com/100017195/199031500-998a000f-1c9e-4c33-a43d-d658a5abc129.png">
 
-256(dec) to Base 2 =
+## Work process:
+
+256(dec) to Base 2 = 100000000
 
 | Division | Quotient | Remainder(Digit) | Digit # |
 |----------|----------|------------------|---------|
@@ -41,7 +43,7 @@ It is critical for you to understand how to represent information in different w
 | 2/2      | 1        | 0                | 7       |
 | 1/2      | 0        | 1                | 8       |
 
-256(dec) to Base 4 =
+256(dec) to Base 4 = 10000
 
 | Division | Quotient | Remainder(Digit) | Digit # |
 |----------|----------|------------------|---------|
@@ -50,3 +52,67 @@ It is critical for you to understand how to represent information in different w
 | 16/4     | 4        | 0                | 2       |
 | 4/4      | 1        | 0                | 3       |
 | 1/4      | 0        | 1                | 4       |
+
+256(dec) to Base 6 = 1104
+
+| Division | Quotient | Remainder(Digit) | Digit # |
+|----------|----------|------------------|---------|
+| 256/6    | 42       | 4                | 0       |
+| 42/6     | 7        | 0                | 1       |
+| 7/6      | 1        | 1                | 2       |
+| 1/6      | 0        | 1                | 3       |
+
+433 (Base 5) to Base 10 = 118
+
+(433)5 = (4 × 52) + (3 × 51) + (3 × 50) = (118)10
+
+118 (dec) to Base 8 = 166
+
+| Division | Quotient | Remainder(Digit) | Digit # |
+|----------|----------|------------------|---------|
+| 118/8    | 14       | 6                | 0       |
+| 14/8     | 1        | 6                | 1       |
+| 1/8      | 0        | 1                | 2       |
+
+118 (dec) to Base 16 = 76
+
+| Division | Quotient | Remainder(Digit) | Digit # |
+|----------|----------|------------------|---------|
+| 118/16   | 7        | 6                | 0       |
+| 7/16     | 0        | 7                | 1       |
+
+FA32 (Base 16) to Base 10 = 64050
+
+(FA32)16 = (15 × 163) + (10 × 162) + (3 × 161) + (2 × 160) = (64050)10
+
+64050 (dec) to Base 2 = 1111101000110010
+
+| Division | Quotient | Remainder(Digit) | Digit # |
+|----------|----------|------------------|---------|
+| 64050/2  | 32025    | 0                | 0       |
+| 32025/2  | 16012    | 1                | 1       |
+| 16012/2  | 8006     | 0                | 2       |
+| 8006/2   | 4003     | 0                | 3       |
+| 4003/2   | 2001     | 1                | 4       |
+| 2001/2   | 1000     | 1                | 5       |
+| 1000/2   | 500      | 0                | 6       |
+| 500/2    | 250      | 0                | 7       |
+| 250/2    | 125      | 0                | 8       |
+| 125/2    | 62       | 1                | 9       |
+| 62/2     | 31       | 0                | 10      |
+| 31/2     | 15       | 1                | 11      |
+| 15/2     | 7        | 1                | 12      |
+| 7/2      | 3        | 1                | 13      |
+| 3/2      | 1        | 1                | 14      |
+| 1/2      | 0        | 1                | 15      |
+
+64050 (dec) to Base 8 = 175062
+
+| Division | Quotient | Remainder(Digit) | Digit # |
+|----------|----------|------------------|---------|
+| 64050/8  | 8006     | 2                | 0       |
+| 8006/8   | 1000     | 6                | 1       |
+| 1000/8   | 125      | 0                | 2       |
+| 125/8    | 15       | 5                | 3       |
+| 15/8     | 1        | 7                | 4       |
+| 1/8      | 0        | 1                | 5       |
