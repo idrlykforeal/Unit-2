@@ -4,7 +4,7 @@
 Draw the circuit for the boolean equations provided
 
 <img width="635" alt="Screen Shot 2022-10-31 at 11 19 32 PM" src="https://user-images.githubusercontent.com/100017195/199030097-6e3d7b77-a368-4f55-9853-7cab000148fd.png">
-<img width="635" alt="Screen Shot 2022-10-31 at 11 19 49 PM" src="https://user-images.githubusercontent.com/100017195/199030104-12f028c3-059a-4ea5-873d-1ae4085174eb.png">
+<img width="632" alt="Screen Shot 2022-11-03 at 10 28 42 PM" src="https://user-images.githubusercontent.com/100017195/199733468-0b68ed32-0dd3-4837-bde3-66d3915c1f3b.png">
 <img width="635" alt="Screen Shot 2022-10-31 at 11 20 07 PM" src="https://user-images.githubusercontent.com/100017195/199030109-d8f1b0dc-72b2-45fc-a6f3-cc0211e1673d.png">
 
 # Get the Equation
