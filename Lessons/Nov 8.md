@@ -2,6 +2,8 @@
 count in binary numbers with the lights following the following system diagram
 <img width="899" alt="Screen Shot 2022-11-09 at 12 07 24 PM" src="https://user-images.githubusercontent.com/100017195/200728906-bfc5aeb4-4b6e-4f4c-b24d-21d8d37f43aa.png">
 
+## How to get the location of the Arduino
+ls / dev | grep cu
 # Python code
 ```.py
 from pyfirmata import Arduino
