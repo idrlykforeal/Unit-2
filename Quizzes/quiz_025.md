@@ -25,4 +25,5 @@ plt.show()
 
 # Base conversion:
 FFA5 (base 16) to decimal:
+
 (FFA5)16 = (15 × 16^3) + (15 × 16^2) + (10 × 16^1) + (5 × 16^0) = (65445)10
