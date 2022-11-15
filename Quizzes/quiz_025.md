@@ -22,3 +22,7 @@ plt.show()
 
 # Graph plotted
 <img width="433" alt="Screen Shot 2022-11-15 at 1 25 30 PM" src="https://user-images.githubusercontent.com/100017195/201826096-65829dc8-4de6-482a-9c7a-82479f4e362a.png">
+
+# Base conversion:
+FFA5 (base 16) to decimal:
+(FFA5)16 = (15 × 16^3) + (15 × 16^2) + (10 × 16^1) + (5 × 16^0) = (65445)10
