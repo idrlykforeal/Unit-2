@@ -27,3 +27,10 @@ plt.show()
 # Graph plotted
 
 <img width="527" alt="Screen Shot 2022-11-16 at 11 48 13 AM" src="https://user-images.githubusercontent.com/100017195/202071537-e7af64a2-1a25-4425-9057-36ffbe9ac334.png">
+
+# Convert color in hex to rgb
+#e6e627
+(e6)16=(230)2
+(e6)16=(230)2
+(27)16=(39)2
+rgb(230, 230, 39)
