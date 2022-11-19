@@ -24,3 +24,14 @@ plt.show()
 ```
 
 <img width="364" alt="Screen Shot 2022-11-11 at 3 03 52 PM" src="https://user-images.githubusercontent.com/100017195/201274308-e4eee66d-bd72-453a-a6e1-f38c656550a7.png">
+
+# Truth table
+
+<img width="123" alt="Screen Shot 2022-11-19 at 1 45 55 PM" src="https://user-images.githubusercontent.com/100017195/202834581-b6d33614-dc05-4ee5-9880-ef60a3e29c8e.png">
+
+| A | B | A(A xor B) |
+|---|---|------------|
+| 0 | 0 | 0          |
+| 0 | 1 | 0          |
+| 1 | 0 | 1          |
+| 1 | 1 | 0          |
