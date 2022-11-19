@@ -30,7 +30,11 @@ plt.show()
 
 # Convert color in hex to rgb
 #e6e627
+
 (e6)16=(230)2
+
 (e6)16=(230)2
+
 (27)16=(39)2
+
 rgb(230, 230, 39)
