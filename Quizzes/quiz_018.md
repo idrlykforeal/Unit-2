@@ -43,3 +43,17 @@ def numberMatches(l:int, s:int)->int:
 
 # Test
 <img width="978" alt="Screen Shot 2022-10-26 at 11 24 48 AM" src="https://user-images.githubusercontent.com/100017195/197919780-dcb35e40-6122-4d1d-ab27-3309258023ad.png">
+
+# Truth table
+for out=ABC+(A+B+C)+not(notA notB notC)
+
+| A | B | C | out |
+|---|---|---|---|
+| 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 1 |
+| 0 | 1 | 0 | 1 |
+| 0 | 1 | 1 | 1 |
+| 1 | 0 | 0 | 1 |
+| 1 | 0 | 1 | 1 |
+| 1 | 1 | 0 | 1 |
+| 1 | 1 | 1 | 1 |
