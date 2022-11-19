@@ -20,3 +20,13 @@ print(sample)
 # Test
 
 <img width="942" alt="Screen Shot 2022-11-08 at 1 35 27 PM" src="https://user-images.githubusercontent.com/100017195/200476008-94f27cf9-2f3c-42c1-9c0d-d03504f3ab16.png">
+
+# Proof that :
+A (A + B) = A 
+
+| A | B | A(A+B) |
+|---|---|--------|
+| 0 | 0 | 0      |
+| 0 | 1 | 0      |
+| 1 | 0 | 1      |
+| 1 | 1 | 1      |
