@@ -17,3 +17,6 @@ plt.show()
 
 # Graph
 <img width="504" alt="Screen Shot 2022-11-21 at 1 25 02 PM" src="https://user-images.githubusercontent.com/100017195/202965578-8363208b-7285-4115-aba3-dcb36f191d87.png">
+
+# Convert the following rgb color to hex color 
+red=10, green=255, blue=255
