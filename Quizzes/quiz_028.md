@@ -20,3 +20,18 @@ plt.show()
 
 # Convert the following rgb color to hex color 
 red=10, green=255, blue=255
+ red=0A
+
+| Division | Quotient | Remainder(Digit) | Digit # |
+|----------|----------|------------------|---------|
+| 10/16    | 0        | 10               | 0       |
+| 6/16     | 0        | 6                | 1       |
+
+green=blue=FF
+
+| Division | Quotient | Remainder(Digit) | Digit # |
+|----------|----------|------------------|---------|
+| 255/16   | 15       | 15               | 0       |
+| 15/16    | 0        | 15               | 1       |
+
+Hex color=0AFFFF
