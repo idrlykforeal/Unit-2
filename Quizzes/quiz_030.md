@@ -31,3 +31,11 @@ plt.show()
 
 # Graph plotted
 <img width="560" alt="Screen Shot 2022-12-02 at 3 24 31 PM" src="https://user-images.githubusercontent.com/100017195/205229052-151387ed-c685-4c3d-87cc-ef5801e3d646.png">
+
+# When was the internet first created? 
+The internet was first created in 
+**January 1, 1983** [^1]
+
+[^1]: A Brief History of the Internet - University System of Georgia https://www.usg.edu/galileo/skills/unit07/internet07_02.phtml#:~:text=January%201%2C%201983%20is%20considered,Protocol%20(TCP%2FIP).
+
+
